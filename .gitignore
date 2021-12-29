@@ -1,5 +1,4 @@
-# gcc coverage testing tool files
+# 3D printer files
 
-*.gcno
-*.gcda
-*.gcov
+*.gcode
+*.3mf
