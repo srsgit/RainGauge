@@ -9,4 +9,6 @@ Addons for WS2080 Rain Gauge
 - Internal slope and drainage holes to allow rain to escape
 
 ## Bracket
-- Bracket to allow Base to be attached to a vertical surface (with top exposed)
+- Bracket to allow Base to be attached to a vertical surface (w
+
+Includes Solid Egde CAD models using Community/Student Edition.
